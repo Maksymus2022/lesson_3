@@ -1,0 +1,19 @@
+div {
+    color: red;
+}
+
+a {
+    color: green;
+}
+
+.text {
+    color: blue;
+}
+
+#top {
+    color: brown;
+}
+
+.lesson.text{
+    color: darkgoldenrod;
+}
